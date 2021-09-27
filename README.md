@@ -23,4 +23,5 @@ Construí a máquina preditiva utilizando a Regressão Logística, fazendo diver
 4) sexo, tempo_medio_internet, idade : 90%
 5) sexo, tempo_diario_site, idade : 89%
 
-Conclusão: Apesar de ter utilizado apenas tres variáveis, a melhor acurácia apresentada foi de 90%, significando que nem sempre mais informações resultam em respostas melhores.
+Conclusão: A tentativa da maq4. teve o melhor desempenho, utilizando três atributos e demonstrou para fins de marketing que para uma campanha direcionada para os homens, a variável tempo_medio_internet tem peso maior que o tempo_diario_site, comprovando a necessidade de uma estratégia de marketing mais focado na rede em geral para chamar a atenção do usuário.
+
